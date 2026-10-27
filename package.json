@@ -1,0 +1,22 @@
+{
+  "name": "wu-tang-generator",
+  "version": "1.0.0",
+  "description": "![How is looks like](./img/wuTang.png)",
+  "homepage": "https://github.com/ClauYA/wu-tang-generator#readme",
+  "bugs": {
+    "url": "https://github.com/ClauYA/wu-tang-generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClauYA/wu-tang-generator.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "devDependencies": {}
+}
