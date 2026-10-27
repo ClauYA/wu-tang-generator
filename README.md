@@ -37,3 +37,6 @@ A browser-based personality quiz that generates a randomized Wu-Tang-inspired al
 - Add a restart button to reset the quiz and generate a new result.
 - Add a share button for copying or sharing the generated name.
 
+**live demo**
+
+https://wu-tang-generator-34hu.onrender.com
